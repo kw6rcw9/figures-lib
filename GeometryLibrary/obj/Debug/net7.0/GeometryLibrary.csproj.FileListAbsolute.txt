@@ -1,0 +1,15 @@
+F:\Desktop\Work\GeometryLibrary\GeometryLibrary\bin\Debug\net7.0\GeometryLibrary.exe
+F:\Desktop\Work\GeometryLibrary\GeometryLibrary\bin\Debug\net7.0\GeometryLibrary.deps.json
+F:\Desktop\Work\GeometryLibrary\GeometryLibrary\bin\Debug\net7.0\GeometryLibrary.runtimeconfig.json
+F:\Desktop\Work\GeometryLibrary\GeometryLibrary\bin\Debug\net7.0\GeometryLibrary.dll
+F:\Desktop\Work\GeometryLibrary\GeometryLibrary\bin\Debug\net7.0\GeometryLibrary.pdb
+F:\Desktop\Work\GeometryLibrary\GeometryLibrary\obj\Debug\net7.0\GeometryLibrary.csproj.AssemblyReference.cache
+F:\Desktop\Work\GeometryLibrary\GeometryLibrary\obj\Debug\net7.0\GeometryLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\Desktop\Work\GeometryLibrary\GeometryLibrary\obj\Debug\net7.0\GeometryLibrary.AssemblyInfoInputs.cache
+F:\Desktop\Work\GeometryLibrary\GeometryLibrary\obj\Debug\net7.0\GeometryLibrary.AssemblyInfo.cs
+F:\Desktop\Work\GeometryLibrary\GeometryLibrary\obj\Debug\net7.0\GeometryLibrary.csproj.CoreCompileInputs.cache
+F:\Desktop\Work\GeometryLibrary\GeometryLibrary\obj\Debug\net7.0\GeometryLibrary.dll
+F:\Desktop\Work\GeometryLibrary\GeometryLibrary\obj\Debug\net7.0\refint\GeometryLibrary.dll
+F:\Desktop\Work\GeometryLibrary\GeometryLibrary\obj\Debug\net7.0\GeometryLibrary.pdb
+F:\Desktop\Work\GeometryLibrary\GeometryLibrary\obj\Debug\net7.0\GeometryLibrary.genruntimeconfig.cache
+F:\Desktop\Work\GeometryLibrary\GeometryLibrary\obj\Debug\net7.0\ref\GeometryLibrary.dll
